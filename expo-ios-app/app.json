@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Merhaba",
+    "slug": "merhaba-ios",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios"],
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.merhaba.iosapp",
+      "buildNumber": "1",
+      "requireFullScreen": true,
+      "infoPlist": {
+        "UIDeviceFamily": [1]
+      }
+    }
+  }
+}

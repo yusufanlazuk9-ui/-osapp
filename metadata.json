@@ -1,0 +1,6 @@
+{
+  "name": "Merhaba iOS (Expo)",
+  "description": "Sadece Apple iPhone cihazlarda çalışan minimal React Native Expo iOS uygulaması ve proje şablonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
